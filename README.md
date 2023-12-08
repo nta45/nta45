@@ -1,6 +1,8 @@
 #
 <div align="center">
 
+# 👦🏾 Nathan Ayele:
+
 🔭 I’m currently working on [TouchDev](https://github.com/nta45/nta45.github.io)
 <br><br>🌱 I’m currently mastering JavaScript and learning React, NodeJS<br><br>✅ More proficient in Java, but like Python more<br>
 
